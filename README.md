@@ -1,6 +1,6 @@
 # 💫 About Me:
 Software and Development:<br>    • Expertise in: 💻 C, C++ • 🐍 Python, 🤖 ROS, 🧬 OOP, 📜 Shell Scripting, 🛠️ MAKE Files<br>    • Software Skills: 🐧 Linux • 🐙 GIT • 🚀 VScode • 📝 Qt Creator<br>    • Development Tools: 📊 SDLC • ⚙️ Agile Methodology • 🏗️ Scrum Teams • 🧪 Unit Testing • 📝 UML • 📄 LaTeX Documentation • 🚀 Production-level Coding<br><br>Passion and Interests:<br>    • 👁️‍🗨️ Computer Vision • 🗺️ Path Planning • 🤖 Robotic Software Development • 🤖 Machine Learning • 🤖 ROS • 🏢 Gazebo • 🌍 RViz • 🛠️ MOVEit • 📚 Kinematics • 🔩 Dynamics • 🔢 Linear Algebra<br><br>Current Engagement and Collaboration:<br>    • Currently Engaged in: 🐜 Independent Research Study on Swarm Robotics<br>    • Looking to Collaborate on: 👯 Fun Robotics Projects to Apply and Improve Skills<br>    • Need Help with: 🔍 Finding Full-time Job Opportunities in Robotics 🤝 <br><br>📫 Email: jkatak73@terpmail.umd.edu<br>🔗 LinkedIn: https://www.linkedin.com/in/josephkatakam/
-
+![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/josephkatakam/) 
