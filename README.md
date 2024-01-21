@@ -57,6 +57,11 @@ The Code Awakens: My Software and Development Saga! <br>
 
 🦹 You are my Visitor number:
 <br> [![](https://visitcount.itsvg.in/api?id=roboticistjoseph&icon=0&color=9)](https://visitcount.itsvg.in)
+ 
+<!-- [![Visits Badge](https://badges.pufler.dev/visits/pujux/badge-it)](https://badges.pufler.dev) -->
+<!-- ![Visitor Count](https://profile-counter.glitch.me/roboticistjoseph/count.svg) -->
+
+
 
 ## 💻 Tools of my trade: Summary of my Skillset
 
