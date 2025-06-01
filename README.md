@@ -1,5 +1,5 @@
 <!-- Banner -->
-![MasterHead](https://drive.google.com/uc?export=view&id=1-xC8fH0sV0luZVy6TMyYFT2hy45MOz5N)
+![MasterHead](Robot world.jpg)
 
 <!-- [![MasterHead](https://drive.google.com/uc?export=view&id=1-xC8fH0sV0luZVy6TMyYFT2hy45MOz5N)]
 <img align="middle" alt="Banner" width="400" src="https://drive.google.com/uc?export=view&id=1-xC8fH0sV0luZVy6TMyYFT2hy45MOz5N"> -->
@@ -12,7 +12,7 @@
 
 <!-- Image -->
 <!-- https://drive.google.com/uc?export=view&id=<FILE_ID> -->
-<img align="right" alt="Coding" width="400" width="500" src="https://drive.google.com/uc?export=view&id=1B2jSAKKgXXxLcT60PF0KPhyIn08tqOIh">
+<img align="right" alt="Coding" width="400" width="500" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif">
 
 
 <!-- Description -->
