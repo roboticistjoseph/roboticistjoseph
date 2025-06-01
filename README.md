@@ -1,5 +1,5 @@
 <!-- Banner -->
-![MasterHead](Robot world.jpg)
+![MasterHead](https://github.com/roboticistjoseph/roboticistjoseph/blob/main/Robot%20world.jpg)
 
 <!-- [![MasterHead](https://drive.google.com/uc?export=view&id=1-xC8fH0sV0luZVy6TMyYFT2hy45MOz5N)]
 <img align="middle" alt="Banner" width="400" src="https://drive.google.com/uc?export=view&id=1-xC8fH0sV0luZVy6TMyYFT2hy45MOz5N"> -->
@@ -22,7 +22,7 @@ Hey everybody, I'm a Robotics Grad student from the prestigious University of Ma
 
 💡 *Innovation at Every Turn:*
 
-🚗 I'm not just riding the wave; I'm making waves at Rivian! As a Senior Robotic Auto. Tech., I'm at the forefront of Electric car manufacturing, helping to paint a greener future.
+🚗 I'm not just riding the wave; I'm making waves at Rivian! As an Automation Engineer, I'm at the forefront of Electric car manufacturing, helping to paint a greener future.
 
 🏥 My journey includes a stint at Stryker, where I played a vital role in crafting 3D Cloud point mapping algorithms. Why does it matter? Well, these algorithms are the unsung heroes in ensuring precise bone registration during surgical procedures. A touch of innovation, a sprinkle of tech magic – all for the benefit of orthopedic patients.
 
@@ -49,7 +49,8 @@ The Code Awakens: My Software and Development Saga! <br>
 
 
 <!-- Contact -->
-## 🌐 Get in touch with me: To Recruiters and others
+## Get in touch with me: To Recruiters and others
+• 🌐 Website: [Portfolio](https://josephkatakam.vercel.app/) <br>
 • 📎Resume: [Resume link](https://drive.google.com/file/d/1TV_MRC_-RoMHQ8HcAx6Z61PMOKWH3F82/view?usp=sharing) <br>
 • 📫 Email: jkatak73@terpmail.umd.edu <br>
 • 🔗 LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/josephkatakam/) 
