@@ -1,5 +1,5 @@
 <!-- Banner -->
-![MasterHead](https://github.com/roboticistjoseph/roboticistjoseph/blob/main/Robot%20world.jpg)
+![MasterHead](https://github.com/roboticistjoseph/roboticistjoseph/blob/main/pencil_robot.jpg)
 
 <!-- [![MasterHead](https://drive.google.com/uc?export=view&id=1-xC8fH0sV0luZVy6TMyYFT2hy45MOz5N)]
 <img align="middle" alt="Banner" width="400" src="https://drive.google.com/uc?export=view&id=1-xC8fH0sV0luZVy6TMyYFT2hy45MOz5N"> -->
